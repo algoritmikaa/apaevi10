@@ -1,0 +1,46 @@
+body {
+    font-family: comic sans ms;
+    margin: 0px;
+    background-color:#FA7080;
+}
+
+header {
+    text-align: center;
+    background-color: crimson;
+    position: relative;
+    bottom: 20px;
+    border: 3px dashed yellow;
+    font-family: COMIC SANS MS;
+    border-radius: 10px;
+    color: white;
+}
+
+nav a {
+    margin: 25px;
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+
+nav a:hover {
+    background-color: crimson;
+    color: yellow;
+    border-radius: 5px;
+}
+
+main h1 {
+    text-align: center;
+    color: white;
+}
+
+main {
+    font-family: comic sans ms;
+    color: white;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    border: 3px dashed yellow;
+    border-radius: 10px;
+}
